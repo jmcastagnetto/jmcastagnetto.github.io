@@ -1,4 +1,4 @@
-This will redirect to https://castagnetto.site/
+This will redirect to https://castagnetto.com/ (there is a mirror at https://castagnetto.site/)
 
 ## Other pages @github
 
